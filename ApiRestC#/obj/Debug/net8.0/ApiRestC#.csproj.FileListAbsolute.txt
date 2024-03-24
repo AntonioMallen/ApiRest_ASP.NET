@@ -79,3 +79,4 @@ E:\PruebaApiRest\ApiRestC#\obj\Debug\net8.0\refint\ApiRestC#.dll
 E:\PruebaApiRest\ApiRestC#\obj\Debug\net8.0\ApiRestC#.pdb
 E:\PruebaApiRest\ApiRestC#\obj\Debug\net8.0\ApiRestC#.genruntimeconfig.cache
 E:\PruebaApiRest\ApiRestC#\obj\Debug\net8.0\ref\ApiRestC#.dll
+E:\PruebaApiRest\ApiRestC#\obj\Debug\net8.0\ApiRestC#.sourcelink.json

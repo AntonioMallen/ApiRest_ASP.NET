@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "E:\\PruebaApiRest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFD150A2-9D89-45D1-B06C-592E5B2566B0}|ApiRestC#\\ApiRestC#.csproj|e:\\pruebaapirest\\apirestc#\\middleware\\jwtipvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFD150A2-9D89-45D1-B06C-592E5B2566B0}|ApiRestC#\\ApiRestC#.csproj|solutionrelative:apirestc#\\middleware\\jwtipvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFD150A2-9D89-45D1-B06C-592E5B2566B0}|ApiRestC#\\ApiRestC#.csproj|e:\\pruebaapirest\\apirestc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD150A2-9D89-45D1-B06C-592E5B2566B0}|ApiRestC#\\ApiRestC#.csproj|solutionrelative:apirestc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFD150A2-9D89-45D1-B06C-592E5B2566B0}|ApiRestC#\\ApiRestC#.csproj|e:\\pruebaapirest\\apirestc#\\apirestc#.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{BFD150A2-9D89-45D1-B06C-592E5B2566B0}|ApiRestC#\\ApiRestC#.csproj|solutionrelative:apirestc#\\apirestc#.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFD150A2-9D89-45D1-B06C-592E5B2566B0}|ApiRestC#\\ApiRestC#.csproj|e:\\pruebaapirest\\apirestc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFD150A2-9D89-45D1-B06C-592E5B2566B0}|ApiRestC#\\ApiRestC#.csproj|solutionrelative:apirestc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFD150A2-9D89-45D1-B06C-592E5B2566B0}|ApiRestC#\\ApiRestC#.csproj|e:\\pruebaapirest\\apirestc#\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\PruebaApiRest\\ApiRestC#\\Program.cs",
               "RelativeDocumentMoniker": "ApiRestC#\\Program.cs",
@@ -55,12 +51,11 @@
               "RelativeToolTip": "ApiRestC#\\ApiRestC#.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-03-24T16:39:53.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T16:39:53.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PersonasController.cs",
               "DocumentMoniker": "E:\\PruebaApiRest\\ApiRestC#\\Controllers\\PersonasController.cs",
               "RelativeDocumentMoniker": "ApiRestC#\\Controllers\\PersonasController.cs",
@@ -68,25 +63,11 @@
               "RelativeToolTip": "ApiRestC#\\Controllers\\PersonasController.cs",
               "ViewState": "AQIAADgAAAAAAAAAAAAIwFYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T16:34:40.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T16:34:40.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JwtIPValidationMiddleware.cs",
-              "DocumentMoniker": "E:\\PruebaApiRest\\ApiRestC#\\Middleware\\JwtIPValidationMiddleware.cs",
-              "RelativeDocumentMoniker": "ApiRestC#\\Middleware\\JwtIPValidationMiddleware.cs",
-              "ToolTip": "E:\\PruebaApiRest\\ApiRestC#\\Middleware\\JwtIPValidationMiddleware.cs",
-              "RelativeToolTip": "ApiRestC#\\Middleware\\JwtIPValidationMiddleware.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T16:13:03.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "TokenService.cs",
               "DocumentMoniker": "E:\\PruebaApiRest\\ApiRestC#\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "ApiRestC#\\Services\\TokenService.cs",
@@ -94,8 +75,7 @@
               "RelativeToolTip": "ApiRestC#\\Services\\TokenService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T11:01:21.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T11:01:21.255Z"
             }
           ]
         }
