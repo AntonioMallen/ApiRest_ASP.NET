@@ -20,8 +20,8 @@
       "dotnetRunMessages": true,
       "applicationUrl": "https://localhost:7109;http://localhost:5123"
     },
-    "IIS Express": {
-      "commandName": "IISExpress",
+    "IIS Eusuariopress": {
+      "commandName": "IISEusuariopress",
       "launchBrowser": true,
       "launchUrl": "swagger",
       "environmentVariables": {
@@ -40,7 +40,7 @@
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
-    "iisExpress": {
+    "iisEusuariopress": {
       "applicationUrl": "http://localhost:28553",
       "sslPort": 44363
     }

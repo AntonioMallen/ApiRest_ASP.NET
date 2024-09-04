@@ -1,2 +1,9 @@
 .vs/
-ApiRestC#/bin/Debug/
+ApiRestC#/bin/Debug/*
+FileContentIndex/*
+obj/*
+.vs/*
+bin/release/*
+bin/debug/*/
+appsettings
+appsettings.Development

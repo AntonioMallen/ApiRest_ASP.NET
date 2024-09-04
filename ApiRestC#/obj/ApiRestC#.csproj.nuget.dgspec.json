@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PruebaApiRest\\ApiRestC#\\ApiRestC#.csproj": {}
+    "C:\\Users\\amallen.LTCINFORMATICOS\\Desktop\\test\\Proyecto JWT\\ApiRestC#\\ApiRestC#.csproj": {}
   },
   "projects": {
-    "E:\\PruebaApiRest\\ApiRestC#\\ApiRestC#.csproj": {
+    "C:\\Users\\amallen.LTCINFORMATICOS\\Desktop\\test\\Proyecto JWT\\ApiRestC#\\ApiRestC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PruebaApiRest\\ApiRestC#\\ApiRestC#.csproj",
-        "projectName": "ApiRestC#",
-        "projectPath": "E:\\PruebaApiRest\\ApiRestC#\\ApiRestC#.csproj",
-        "packagesPath": "C:\\Users\\Antonio Mallen Gimen\\.nuget\\packages\\",
-        "outputPath": "E:\\PruebaApiRest\\ApiRestC#\\obj\\",
+        "projectUniqueName": "C:\\Users\\amallen.LTCINFORMATICOS\\Desktop\\test\\Proyecto JWT\\ApiRestC#\\ApiRestC#.csproj",
+        "projectName": "ProyectoJWT",
+        "projectPath": "C:\\Users\\amallen.LTCINFORMATICOS\\Desktop\\test\\Proyecto JWT\\ApiRestC#\\ApiRestC#.csproj",
+        "packagesPath": "C:\\Users\\amallen.LTCINFORMATICOS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amallen.LTCINFORMATICOS\\Desktop\\test\\Proyecto JWT\\ApiRestC#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Antonio Mallen Gimen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\amallen.LTCINFORMATICOS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,6 +45,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[8.0.3, )"
