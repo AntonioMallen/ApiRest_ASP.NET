@@ -1,4 +1,4 @@
-# Proyecto de Prueba de Desarrollo Backend en C# con ASP.NET
+# Proyecto de desarrollo backend en C# con ASP.NET
 Este proyecto es una prueba de desarrollo backend en C# utilizando ASP.NET. Se han implementado las distintas capas típicas de un desarrollo backend, incluyendo Entities, Services y Controllers. Además, se ha integrado un sistema de tokens JWT para gestionar el inicio de sesión, con un middleware que verifica las solicitudes.
 
 ## Características Principales
