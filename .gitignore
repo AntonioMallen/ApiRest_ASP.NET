@@ -5,5 +5,5 @@ obj/*
 .vs/*
 bin/release/*
 bin/debug/*/
-appsettings
-appsettings.Development
+ApiRestC#/appsettings
+ApiRestC#/appsettings.Development
