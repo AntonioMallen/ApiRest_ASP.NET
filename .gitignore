@@ -7,3 +7,5 @@ bin/release/*
 bin/debug/*/
 ApiRestC#/appsettings
 ApiRestC#/appsettings.Development
+ApiRestC#/bin/Release/net8.0/appsettings
+ApiRestC#/bin/Release/net8.0/appsettings.Development
